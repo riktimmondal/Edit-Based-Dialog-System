@@ -1,0 +1,28 @@
+Speech: X after Y
+Touchpad + Speech: click on pos and say word (or type it)
+Touch + Speech: finger at pos + say "X"
+Touch + Speech: pos + "enter X"
+Speech: add ‘visiting’ between X and Y
+Speech: stating correct sentence 
+Speech: put A between C and D
+Touch + speech: tap with single + Speech: saying "visiting"
+Speech: Add X before/after Y
+Speech: Add "visiting" after "when"
+
+He is mumbai
+add visisting between is and mumbai
+
+
+
+
+*************************For dictation********************
+add hello before riktim --> hello riktim(Done)
+add hello after riktim --> riktim hello(Done)
+add ‘visiting’ between X and Y ---> X visiting Y(Done)
+delete x from w x y--> w y(Done)
+*************************************************************
+
+*****************************From text input******************
+add before/after/between
+
+**************************************************************
